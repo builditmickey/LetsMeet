@@ -16,7 +16,7 @@ const Navbar = () => {
 					className="max-sm:size-10"
 				/>
 				<p className="text-[26px] font-serif text-white max-sm:hidden">
-					Let's Meet
+					Let&apos;s Meet
 				</p>
 			</Link>
 			<div className="flex-between gap-5">
